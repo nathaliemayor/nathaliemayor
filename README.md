@@ -1,4 +1,4 @@
-### About
+### About 
 
 I am a Master student in quantitative economics at the University of St.Gallen, 🇨🇭
 
