@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=nathaliemayor&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliemayor&layout=compact"/>
