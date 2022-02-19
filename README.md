@@ -1,6 +1,6 @@
 ### About me
 
-Hi! I am a Master student in quantitative economics at the University of St.Gallen, 🇨🇭
+Hi! I am a Master's student in quantitative economics at the University of St.Gallen, 🇨🇭
 
 I have a particular interest in topics lying in the intersection of *traditional* econometrics and machine learning time series forecasting methods. 
 
