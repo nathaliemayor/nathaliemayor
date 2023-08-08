@@ -2,7 +2,7 @@
 
 Hi! I am a Master's student in quantitative economics at the University of St.Gallen, 🇨🇭
 
-I have a particular interest in topics lying in the intersection of *traditional* econometric and machine learning time series estimation/ forecasting methods. 
+I have a particular interest in topics lying at the intersection of *traditional* econometric and machine learning time series estimation/ forecasting methods. 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathaliemayor&layout=compact&theme=dark"/>
 
